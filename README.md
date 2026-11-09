@@ -8,3 +8,9 @@ the puropose of this repository is to pratice software development concept
 
 written by 
 Oladapo Sulaiman Akindele
+
+##pratical activities
+repository creation
+branch creation
+commit management
+readme documentation
